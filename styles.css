@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+/*ONS  your css code here. If applicable */
+:root{
+	background-color:rgb(135, 206, 235);
+}
+
+p:first-child{
+	color: white;
+	background-color: black;
+}
+
+p:nth-child(2){
+	color:black;
+}
+p:last-child{
+	color:red;
+}
+
+.list{
+	background-color:grey;
+}
